@@ -5,3 +5,10 @@ downloaded_*
 scripts/.formosan_qc_scripts/
 bash/
 
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
